@@ -14,3 +14,4 @@ int main() {
   printf("A média é: %f", media);
 
   return 0;
+}
